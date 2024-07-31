@@ -1,0 +1,8 @@
+client/.eslintrc.cjs
+client/package-lock.json
+client/package.json
+client/README.md
+client/vite.config.js
+client/src/App.css
+client/src/assets/react.svg
+client/public/vite.svg

@@ -1,0 +1,11 @@
+.nav a{
+    text-decoration: none;
+    font-size: 30px;
+    font-weight: 600;
+    color: #fff;
+    margin-left: -500px;
+
+}
+.nav{
+    margin-top: 20px;
+}

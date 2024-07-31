@@ -5,6 +5,7 @@ import {FaLock} from 'react-icons/fa';
 import './Login.css'
 function Login() {
   return (
+  
     <div className="wrapper">
       <div className="from-box login">
         <form action=''> 
@@ -22,7 +23,7 @@ function Login() {
             <a href='#'>Forgot password?</a>
            </div>
 
-           <button type="submit">Login</button>
+           <button  type="submit">Login</button>
 
            <div className="register-link">
             <p>Don't have an account? <a href="/register">Register</a></p>
